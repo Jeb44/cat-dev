@@ -5,7 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${vcpkgRoot}/x86-windows/include",
-                "D:/C++ Projects/SFML-2.5.1/include"
+                "D:/C++ Projects/SFML-2.5.1/include",
+                "D:/github/cat-dev/code/imgui",
+                "D:/github/cat-dev/code/imgui/backends"
             ],
             "defines": [
                 "_DEBUG",
